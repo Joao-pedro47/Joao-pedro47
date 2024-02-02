@@ -19,7 +19,7 @@
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 ![Canva]([https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white))&nbsp;
-![C]([https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white))&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
